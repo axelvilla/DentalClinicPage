@@ -3,12 +3,12 @@ import DifferenceCard from '../../components/DifferenceCard'
 
 export const Diferencia = () => {
   return (
-    <div class="pt-5 mb-5">
-        <div class="container d-flex justify-content-center pb-2">
-            <p class="fw-bold text-primary">QUE NOS HACE DIFERENTES?</p>
+    <div className="pt-5 mb-5">
+        <div className="container d-flex justify-content-center pb-2">
+            <p className="fw-bold text-primary">QUE NOS HACE DIFERENTES?</p>
         </div>
-        <div class="container d-flex justify-content-center mb-5">
-            <h2 class="w-75 d-flex text-center ">Descubre los beneficios de elegir nuestro centro odontologico para tu salud dental</h2>
+        <div className="container d-flex justify-content-center mb-5">
+            <h2 className="w-75 d-flex text-center ">Descubre los beneficios de elegir nuestro centro odontologico para tu salud dental</h2>
         </div>
         <div className="d-flex flex-row justify-content-between px-5 mx-5">
             <DifferenceCard 
